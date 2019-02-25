@@ -9,6 +9,17 @@ body{
 
 /* NAVIGATION BAR */
 
+.titlelink{
+  color:black;
+  text-decoration: none
+}
+
+.titlelink:hover{
+  background-color: black;
+  color:white;
+
+}
+
 
 .NavigationBar{
 	left: 0;
@@ -99,8 +110,38 @@ li a.current{
 	padding: 3px;
 }
 
+.AboutContent{
+  text-align:center;
+  padding-bottom: 5%;
+
+}
+
+.c{
+  float:left;
+  width: 60%;
+  height:100%;
+}
+
+.d{
+
+  float:right;
+  width: 40%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 /* ABOUT PAGE */
 
+.missionstatement{
+  background-color: gainsboro;
+  font-size: 1.3em;
+}
+
+.socialmedialist{
+  background-color: gainsboro;
+  font-size: 1.3em;
+  padding-bottom: 40px;
+}
 
 
 a.resumelink:hover{
