@@ -132,6 +132,10 @@ li a.current{
 
 /* ABOUT PAGE */
 
+.interestdiv{
+  background-color:gainsboro;
+}
+
 .missionstatement{
   background-color: gainsboro;
   font-size: 1.3em;
