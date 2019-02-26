@@ -102,6 +102,7 @@ li a.current{
 	display: inline-block;
 	width: 50%;
   height:100%;
+  
 }
 
 .b{
@@ -120,6 +121,10 @@ li a.current{
   float:left;
   width: 60%;
   height:100%;
+ 
+  
+
+
 }
 
 .d{
@@ -131,6 +136,12 @@ li a.current{
 }
 
 /* ABOUT PAGE */
+
+.whereimgoing{
+  border: solid;
+  border-width: 1px;
+  font-size: 1em;
+}
 
 .interestdiv{
   background-color:gainsboro;
